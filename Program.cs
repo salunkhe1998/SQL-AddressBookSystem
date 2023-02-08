@@ -6,6 +6,9 @@
         {
             Operations operations = new Operations();
             operations.addPerson();
+            operations.edit();
+
         }
     }
 }
+Footer
