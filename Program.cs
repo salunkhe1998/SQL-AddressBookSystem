@@ -7,8 +7,8 @@
             Operations operations = new Operations();
             operations.addPerson();
             operations.edit();
+            operations.delete();
 
         }
     }
 }
-Footer
